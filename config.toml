@@ -9,5 +9,14 @@ theme = "PaperMod"
   logo = "/images/logo.png"
   favicon = "/images/favicon.ico"
 
+[params.colors]
+  primary = "#FF6600"
+  accent = "#007ACC"
+  header = "#FFFFFF"
+  footer = "#F0F0F0"
+
 [params.sidebar]
   enable = true
+  showRecentPosts = true
+  showCategories = true
+  showTags = true
