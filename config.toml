@@ -5,3 +5,9 @@ theme = "PaperMod"
 
 [params]
   description = "Comparatifs automatiques des meilleures lampes frontales USB-C."
+  themeStyle = "light"
+  logo = "/images/logo.png"
+  favicon = "/images/favicon.ico"
+
+[params.sidebar]
+  enable = true
