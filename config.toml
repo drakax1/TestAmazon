@@ -1,0 +1,7 @@
+baseURL = "https://tonsite.netlify.app/"
+languageCode = "fr"
+title = "Meilleures lampes frontales USB-C"
+theme = "PaperMod"
+
+[params]
+  description = "Comparatifs automatiques des meilleures lampes frontales USB-C."
