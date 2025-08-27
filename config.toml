@@ -1,22 +1,10 @@
-baseURL = "https://selectionamazonsuisse.netlify.app/"
-languageCode = "fr"
-title = "Meilleures lampes frontales USB-C"
+baseURL = "https://example.com/"
+languageCode = "en-us"
+title = "Mon Site Hugo"
 theme = "PaperMod"
+enableGitInfo = true
+unsafe = true
 
 [params]
-  description = "Comparatifs automatiques des meilleures lampes frontales USB-C."
-  themeStyle = "light"
-  logo = "/images/logo.png"
-  favicon = "/images/favicon.ico"
-
-[params.colors]
-  primary = "#FF6600"
-  accent = "#007ACC"
-  header = "#FFFFFF"
-  footer = "#F0F0F0"
-
-[params.sidebar]
-  enable = true
-  showRecentPosts = true
-  showCategories = true
-  showTags = true
+  ShowReadingTime = true
+  ShowShareButtons = true
