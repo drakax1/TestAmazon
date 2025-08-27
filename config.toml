@@ -1,7 +1,7 @@
-baseURL = "https://example.com/"
+baseURL = "https://comparatifs.netlify.app/"
 languageCode = "en-us"
-title = "Mon Site Hugo"
-theme = "PaperMod"
+title = "Le Top des Comparatifs 2025"
+theme = "papermod"
 enableGitInfo = true
 unsafe = true
 
