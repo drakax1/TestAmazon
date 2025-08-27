@@ -8,3 +8,8 @@ unsafe = true
 [params]
   ShowReadingTime = true
   ShowShareButtons = true
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
