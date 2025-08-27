@@ -1,7 +1,7 @@
 baseURL = "https://comparatifs.netlify.app/"
 languageCode = "en-us"
 title = "Le Top des Comparatifs 2025"
-theme = "papermod"
+theme = "PaperMod"
 enableGitInfo = true
 unsafe = true
 
