@@ -108,8 +108,10 @@ Pour résumer, voici nos 3 coups de cœur parmi toutes les clés testées:
 
 3\. <a href="https://amzn.to/4n1KNwj" target="_blank">Samsung BAR Plus 256 Go</a> – la référence haut de gamme.
 
+<p style="text-align:center;">
 👉 Pour retrouver ces modèles directement et consulter leur disponibilité et prix:  
 <a href="https://amzn.to/4n1KNwj" target="_blank">cliquez ici</a>
+</p>
 
 ---
 
