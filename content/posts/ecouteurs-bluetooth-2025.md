@@ -92,8 +92,10 @@ Pour résumer, voici nos 3 coups de cœur parmi toutes les références testées
 2. [Bose QuietComfort Ultra Earbuds](https://amzn.to/4n1KNwj) – Réduction de bruit active de premier ordre, son immersif, design élégant.  
 3. [Samsung Galaxy Buds 3 Pro](https://amzn.to/4n1KNwj) – Confort optimal, ANC et mode Transparent de qualité, application complète.  
 
-> 👉 Pour retrouver ces modèles directement et consulter leur disponibilité et prix :  
-> [Cliquez ici](https://amzn.to/4n1KNwj)  
+<p style="text-align:center;">
+👉 Pour retrouver ces modèles directement et consulter leur disponibilité et prix:<br>
+<a href="https://amzn.to/4n1KNwj" target="_blank">cliquez ici</a>
+</p>
 
 ---
 
@@ -101,11 +103,11 @@ Pour résumer, voici nos 3 coups de cœur parmi toutes les références testées
 
 Si vous souhaitez compléter votre lecture avec des avis externes, nous vous recommandons également ces articles fiables :
 
-- **Frandroid – Sélection des meilleurs écouteurs Bluetooth en 2025**  
+*Frandroid – Sélection des meilleurs écouteurs Bluetooth en 2025*  
 https://www.frandroid.com/guide-dachat/guide-audio/482350_quels-sont-les-meilleurs-ecouteurs-true-wireless-a-moins-de-200-euros-en-2018  
 
-- **01net – Guide d’achat des meilleurs écouteurs sans fil Bluetooth**  
+*01net – Guide d’achat des meilleurs écouteurs sans fil Bluetooth*  
 https://www.01net.com/guide-achat/meilleurs-ecouteurs-sans-fil-bluetooth.html  
 
-- **Le Journal de Montréal – Les meilleurs écouteurs sans fil**  
+*Le Journal de Montréal – Les meilleurs écouteurs sans fil*  
 https://www.journaldemontreal.com/nos-recos/techno/meilleur-ecouteur-sans-fil/
