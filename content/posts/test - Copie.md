@@ -109,22 +109,8 @@ Pour résumer, voici nos 3 coups de cœur parmi toutes les clés testées:
 
 3\. <a href="https://amzn.to/4n1KNwj" target="_blank">Samsung BAR Plus 256 Go</a> – la référence haut de gamme.
 
-<p style="text-align:center;">
-👉 Pour retrouver ces modèles directement et consulter leur disponibilité et prix:<br>
-<a href="https://amzn.to/4n1KNwj" target="_blank">cliquez ici</a>
-</p>
-
 ---
 
 <h2 style="font-weight:bold; font-size:1.5em;">🔗 Pour aller plus loin</h2>
 
 Si vous souhaitez compléter votre lecture avec des avis externes, nous vous recommandons également ces articles fiables:
-
-*Les Numériques – Guide d’achat des clés USB*  
-https://www.lesnumeriques.com/cle-usb/
-
-*01Net – Comparatif clés USB*  
-https://www.01net.com/astuces/comparatif-cles-usb-305210.html
-
-*FrAndroid – Sélection de clés USB en 2025*  
-https://www.frandroid.com/materiel/comparatifs/200123_selections-cles-usb
