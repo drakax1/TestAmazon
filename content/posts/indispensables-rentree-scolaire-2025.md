@@ -16,9 +16,9 @@ La rentrée scolaire 2025 approche à grands pas : il est temps de sélectionner
 
 <h3 style="font-weight:bold; font-size:1.3em;">1. 📝 Supports & prise de notes</h3>
 
-1. <a href="https://www.amazon.fr/Oxford-100102638-Cahiers-grands-carreaux/dp/B0742PDWC1?tag=comparatifs05-21" target="_blank">Lot de 10 Cahiers Oxford A4, 96 pages</a> – papier 90 g, grands carreaux, robustes. ([amazon.fr](https://www.amazon.fr/Oxford-100102638-Cahiers-grands-carreaux/dp/B0742PDWC1?tag=comparatifs05-21))  
-2. <a href="https://www.amazon.fr/Kokonote-2025-2026-Journalier-Fleurs/dp/B0F7M54HBH?tag=comparatifs05-21" target="_blank">Agenda scolaire Kokonote 2025-2026 (daily planner, A5)</a> – format journalier, couverture durable. ([amazon.fr](https://www.amazon.fr/Kokonote-2025-2026-Journalier-Scolaire-Universit%C3%A9/dp/B0F7M54HBH?tag=comparatifs05-21))  
-3. <a href="https://www.amazon.fr/Agenda-Scolaire-2025-2026-Planificateur/dp/B0DP7H65W5?tag=comparatifs05-21" target="_blank">Agenda scolaire semainier 2025-2026 (A5/A4)</a> – plan sur 18 mois, vue hebdomadaire. ([amazon.fr](https://www.amazon.fr/Agenda-Scolaire-2025-2026-Planificateur/dp/B0DP7H65W5?tag=comparatifs05-21))
+1. <a href="https://www.amazon.fr/Oxford-100102638-Cahiers-grands-carreaux/dp/B0742PDWC1?tag=comparatifs05-21" target="_blank">Lot de 10 Cahiers Oxford A4, 96 pages</a> – papier 90 g, grands carreaux, robustes.
+2. <a href="https://www.amazon.fr/Kokonote-2025-2026-Journalier-Fleurs/dp/B0F7M54HBH?tag=comparatifs05-21" target="_blank">Agenda scolaire Kokonote 2025-2026 (daily planner, A5)</a> – format journalier, couverture durable.
+3. <a href="https://www.amazon.fr/Agenda-Scolaire-2025-2026-Planificateur/dp/B0DP7H65W5?tag=comparatifs05-21" target="_blank">Agenda scolaire semainier 2025-2026 (A5/A4)</a> – plan sur 18 mois, vue hebdomadaire.
 
 <h3 style="font-weight:bold; font-size:1.3em;">2. ✍️ Écriture & surlignage</h3>
 
@@ -78,7 +78,41 @@ La rentrée scolaire 2025 approche à grands pas : il est temps de sélectionner
 
 <h2 style="font-weight:bold; font-size:1.5em;">🛒 Guide d’achat : bien choisir ton matériel pour la rentrée</h2>
 
-... *(texte identique à la version précédente)* ...
+<h3 style="font-weight:bold; font-size:1.3em;">1. Prioriser réutilisable vs jetable</h3>
+
+Un cahier robuste, un agenda bien conçu ou une trousse durable dureront plusieurs années — un bon investissement.
+
+<h3 style="font-weight:bold; font-size:1.3em;">2. Ergonomie d’écriture</h3>
+
+Les stylos adaptés à la main (type ergonomique) limitent la fatigue. Les stylo effaçables peuvent éviter de recommencer une page entière en cas d’erreur.
+
+<h3 style="font-weight:bold; font-size:1.3em;">3. Organisation matériel & numérique</h3>
+
+Range tes fournitures dans des boîtes ou caissons, relève ton écran pour éviter les douleurs cervicales, utilise des horloges ou affiche ta motivation à portée de vue.
+
+<h3 style="font-weight:bold; font-size:1.3em;">4. Gestion du temps</h3>
+
+Les agendas (journaliers ou hebdomadaires) et minuteurs Pomodoro aident vraiment à garder une bonne routine et à éviter le stress de dernière minute.
+
+<h3 style="font-weight:bold; font-size:1.3em;">5. Budget et opportunités</h3>
+
+Repère les promotions mi-août, compare les prix entre enseignes physiques et Amazon (pour repérer les bonnes affaires avant d’acheter en magasin), profite des lots pour économiser.
+
+---
+
+<h2 style="font-weight:bold; font-size:1.5em;">❓ FAQ – Questions fréquentes pour la rentrée scolaire</h2>
+
+➡️ **Combien prévoir pour la rentrée 2025 ?**  
+Le budget dépend du niveau scolaire et des priorités (papier vs numérique). Un bon mix tourne entre 50 € et 120 €, surtout si tu profites des réutilisable.
+
+➡️ **Les agendas commandés en ligne arriveront-ils à temps ?**  
+Oui, si commandés **avant mi-août**, les livraisons sont généralement assurées avant le début des cours. En revanche, les modèles les plus populaires peuvent être en rupture fin août.
+
+➡️ **Est-ce que l’on peut utiliser une clé USB comme stockage principal ?**  
+Pas vraiment — une clé USB est utile pour transporter des fichiers entre appareils, mais elle n’est pas conçue pour un usage systématique ou comme disque système. Un SSD externe ou le cloud sont préférables.
+
+➡️ **J’ai l’impression que la liste fournitures est trop chère. Une solution ?**  
+Oui, réutilise ce qui est encore en bon état, parle à l’école si certains articles peuvent être partagés, et regarde du côté des associations ou aides locales.
 
 ---
 
@@ -91,7 +125,7 @@ Voici trois vraies valeurs sûres :
 3. <a href="https://www.amazon.fr/Kokonote-2025-2026-Journalier-Fleurs/dp/B0F7M54HBH?tag=comparatifs05-21" target="_blank">Agenda journalier Kokonote</a> — organisation claire au quotidien.
 
 <p style="text-align:center;">
-👉 Pour retrouver ces références et consulter leur disponibilité sur Amazon.fr :  
+👉 Pour retrouver ces références et consulter leur disponibilité et rix:<br>  
 <a href="https://www.amazon.fr/s?k=fournitures+scolaires&tag=comparatifs05-21" target="_blank">cliquez ici</a>
 </p>
 
@@ -99,6 +133,11 @@ Voici trois vraies valeurs sûres :
 
 <h2 style="font-weight:bold; font-size:1.5em;">🔗 Pour aller plus loin</h2>
 
-* <a href="https://www.education.gouv.fr/fournitures-scolaires-pour-la-rentree-7526" target="_blank">Ministère de l’Éducation nationale – Liste modèles & conseils</a>  
-* <a href="https://www.service-public.fr/particuliers/actualites/A17628" target="_blank">Service-Public.fr – Informations pratiques rentrée 2025</a>  
-* <a href="https://www.quechoisir.org/actualite-fournitures-scolaires-pas-de-baisse-des-prix-en-vue-n168488/" target="_blank">UFC-Que Choisir – Analyse des prix de la rentrée</a>
+*Ministère de l’Éducation nationale – Liste modèles & conseils*
+https://www.education.gouv.fr/fournitures-scolaires-pour-la-rentree-7526
+
+*Service-Public.fr – Informations pratiques rentrée 2025*
+https://www.service-public.fr/particuliers/actualites/A17628
+ 
+*UFC-Que Choisir – Analyse des prix de la rentrée*
+https://www.quechoisir.org/actualite-fournitures-scolaires-pas-de-baisse-des-prix-en-vue-n168488
