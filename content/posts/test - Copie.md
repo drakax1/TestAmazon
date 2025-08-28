@@ -1,7 +1,5 @@
 +++
 
-draft = false
-date = "2025-08-28T12:00:00"
 slug = "top-des-meilleures-cles-usb-2025"
 
 +++
